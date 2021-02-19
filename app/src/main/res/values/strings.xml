@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exemplo_Formulario</string>
+    <string name="iconeProj">Meu ícone</string>
+    <string name="cadUsu">Cadastro de Usuário</string>
+    <string name="textVw1">Nome: </string>
+    <string name="placeNome">Qual é seu nome?</string>
+    <string name="textVw2">Idade: </string>
+    <string name="placeIdade">Qual é sua idade?</string>
+    <string name="textVw3">Gênero: </string>
+    <string name="opcFemale">Feminino</string>
+    <string name="opcMale">Masculino</string>
+    <string name="btnSend">Enviar</string>
+    <string name="btnClean">Limpar</string>
+    <string name="msGender">Gênero </string>
+    <string name="btnReturn">Voltar</string>
+</resources>
